@@ -1,6 +1,6 @@
 # 🛠️ DB Designer — Visual Database Schema Builder
 
-**DB Designer** is a premium, visual-first tool for designing database schemas. Built for developers who want to skip the tedious SQL writing and focus on the architecture. Design your tables, drag relationships, and export production-ready SQL in seconds.
+**DB Designer** es una herramienta premium enfocada en lo visual para diseñar esquemas de bases de datos. Creada para desarrolladores que buscan evitar la tediosa escritura manual de SQL y centrarse en la arquitectura. Diseña tus tablas, arrastra relaciones y exporta código SQL listo para producción en segundos.
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
